@@ -1,4 +1,4 @@
-const SITE_URL = "http://localhost/todo/";
+const SITE_URL = "http://siteadresi.com/";
 
 const Toast = Swal.mixin({
     toast: true,
