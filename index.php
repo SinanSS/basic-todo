@@ -9,7 +9,7 @@ require_once __DIR__ . '/system/database.php';
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="açıklama">
     <meta name="keywords" content="etiket">
-    <meta name="author" content="SinaSS">
+    <meta name="author" content="SinanSS">
 
     <title>TODO</title>
 
